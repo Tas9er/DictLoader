@@ -23,7 +23,7 @@
 
 生成C格式的ShellCode,以Cobalt Strike为例
 
-![0](image\0.png)
+![0](/image/0.png)
 
 将字节序列数组转为十六进制字符串,例如:
 
